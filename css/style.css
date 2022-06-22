@@ -1,0 +1,129 @@
+body{
+background-color: #fafafa;
+color: #0f141e ;
+font-size: 16px;
+font-weight: normal;
+font-family: 'Quattrocento', serif;
+}
+.avatarka{
+width: 300px;
+margin: 0 auto;
+display: block;
+border-radius: 0%;
+box-shadow: 4px 4px 14px rgba(0, 0, 0, 0 25);
+}
+.info p {
+    color: rgb(66, 65, 65);
+    margin: 0 auto;
+    font-style: none;
+    display: block;
+    text-transform: unset;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+.info h1 {
+    color: rgb(66, 65, 65);
+    margin: 0 auto;
+    text-align: center;
+}
+.info{
+   padding: 20px;
+   border: 2px solid rgb(16, 168, 92)
+  
+}
+.container{ 
+max-width: 700px;
+margin: auto;
+}
+   
+
+.text-info p { 
+    color: rgb(12, 19, 11);
+    margin: 4%;
+    font-style: normal;
+    text-transform: unset;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    text-align: center;
+}
+
+.text-info h3{
+    text-align: center;
+}
+.text-info h4{
+    text-align: center;
+}
+.foto{
+margin: 0 auto;
+display: block;
+border-radius: 0%;
+box-shadow: 4px 4px 14px rgba(0, 0, 0, 0 25);
+}
+.namber{
+    text-align: center; 
+}
+.social{
+    text-align: center; 
+}
+.footer{
+    background: rgb(15, 15, 15);
+color: #fff;
+font-size: 70%;
+padding: 5px; clear : both;
+}
+.mem h3 {
+    text-align: center;  
+}
+
+.mem-foto{
+    margin: 0 auto;
+    display: block;
+    border-radius: 0%;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0 25); 
+}
+.mereja{
+    text-align: center; 
+    margin: 0 auto;
+    display: block;
+    border-radius: 0%;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0 25); 
+    padding: 10px;
+    border: 2px solid rgb(16, 168, 92)
+}
+.dev{
+    text-align: center;
+    color: #194485; 
+}
+.footer{
+    background: #0f141e;
+    padding: 50px 0;
+    display:flex ;
+    justify-content: center;
+}
+.contact-item{
+    background: #fff;
+    padding: 30px;
+    margin: 10px;
+    flex-grow: 1;
+    display:flex ;
+    justify-content: center;  
+}
+.phone-number{
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+}
+.social-items a {
+    margin: 0 5px;
+}
+.address{
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+}
